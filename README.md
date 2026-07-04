@@ -128,8 +128,6 @@ Open To:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aarifa-1221&show_icons=true&theme=tokyonight&hide_border=true&title_color=B388FF&icon_color=8A2BE2&text_color=E6D6FF&bg_color=0D0221)
-
 ![Streak](https://streak-stats.demolab.com/?user=aarifa-1221&theme=tokyonight&hide_border=true&background=0D0221&ring=8A2BE2&fire=B388FF)
 
 </div>
