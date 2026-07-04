@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=Aarifa&fontSize=60&fontColor=E6D6FF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=Aarifa&fontSize=60&fontColor=E6D6FF&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20and%20Data%20Science%20Student&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Dev+Intern;B.Tech+AI+%26+Data+Science+Student;Learning+Python+%2C+HTML%2FCSS+%2C+Data+Analytics;Building+my+GitHub%2C+one+project+at+a+time" alt="Typing SVG" />
@@ -151,4 +151,3 @@ Open To:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:6A0DAD&height=100&section=footer)
 
 </div>
-
